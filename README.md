@@ -148,3 +148,5 @@ Veo 3.1 keeps the eight-second base clip and native audio but adds up to three r
 ---
 
 *This is an independent, community-maintained information repository about Veo 3. It is not affiliated with, endorsed by, or sponsored by Google DeepMind. All trademarks belong to their respective owners. Corrections welcome via issues.*
+
+_Last reviewed: 2026-09-22_
